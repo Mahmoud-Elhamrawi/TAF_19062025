@@ -1,0 +1,23 @@
+[INFO] - {19-06-2025 16:45:44} [main] [Testnglistener.TestNGListener] - Execution started
+[INFO] - {19-06-2025 16:45:45} [main] [Testnglistener.TestNGListener] - Properties file loaded
+[INFO] - {19-06-2025 16:45:45} [main] [Testnglistener.TestNGListener] - Previous Allure files deleted
+[INFO] - {19-06-2025 16:45:45} [main] [Testnglistener.TestNGListener] - Previous Screenshots deleted
+[INFO] - {19-06-2025 16:45:45} [main] [Testnglistener.TestNGListener] - Previous Logs deleted
+[INFO] - {19-06-2025 16:45:45} [main] [Testnglistener.TestNGListener] - Previous Allure Report deleted
+[INFO] - {19-06-2025 16:45:46} [main] [Testnglistener.TestNGListener] - Test Suite LoginTest started
+[INFO] - {19-06-2025 16:45:46} [main] [TestCases.TC01_LoginTC] - JsonData file loaded
+[INFO] - {19-06-2025 16:45:52} [main] [TestCases.TC01_LoginTC] - Driver created edge
+[INFO] - {19-06-2025 16:45:57} [main] [TestCases.TC01_LoginTC] - Navigated to login page: https://www.saucedemo.com/
+[INFO] - {19-06-2025 16:45:59} [main] [Testnglistener.TestNGListener] - Test Case loginTest started
+[INFO] - {19-06-2025 16:46:08} [main] [Pages.P02_landingPage] - actual url https://www.saucedemo.com/inventory.html expected url https://www.saucedemo.com/inventory.html
+[INFO] - {19-06-2025 16:46:08} [main] [Pages.P02_landingPage] - actual title Swag Labs expected title Swag Labs
+[INFO] - {19-06-2025 16:46:08} [main] [TestCases.TC01_LoginTC] - Login test completed
+[INFO] - {19-06-2025 16:46:08} [main] [Utils.ClassesUtils.ClassUtil] - Screenshot taken
+[INFO] - {19-06-2025 16:46:09} [main] [Testnglistener.TestNGListener] - Test Case loginTest passed
+[INFO] - {19-06-2025 16:46:13} [main] [TestCases.TC01_LoginTC] - Driver closed
+[INFO] - {19-06-2025 16:46:13} [main] [Testnglistener.TestNGListener] - Test Suite LoginTest finished
+[INFO] - {19-06-2025 16:46:20} [main] [Utils.TeminalUtil.TerminalClass] - Command executed successfully
+[INFO] - {19-06-2025 16:46:20} [main] [Utils.AllureUtils.AllureClass] - Report generated successfully on Windows
+[INFO] - {19-06-2025 16:46:22} [main] [Utils.TeminalUtil.TerminalClass] - Command executed successfully
+[INFO] - {19-06-2025 16:46:22} [main] [Utils.AllureUtils.AllureClass] - Report opened successfully on Windows
+[INFO] - {19-06-2025 16:46:22} [main] [Testnglistener.TestNGListener] - Execution finished
